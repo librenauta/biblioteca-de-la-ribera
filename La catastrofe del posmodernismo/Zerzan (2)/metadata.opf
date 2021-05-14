@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08259a6b-f085-44e2-bea9-f0bba7250ee7</dc:identifier>
+        <dc:title>Zerzan</dc:title>
+        <dc:creator opf:file-as="posmodernismo, La catástrofe del" opf:role="aut">La catástrofe del posmodernismo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;La catástrofe del posmodernismo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-05-14T14:51:29.328049+00:00"/>
+        <meta name="calibre:title_sort" content="Zerzan"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
